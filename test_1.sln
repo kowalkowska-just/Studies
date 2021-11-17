@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Addition", "Addition\Additi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Formatting", "Formatting\Formatting.csproj", "{5F6A43FC-6321-499C-98E5-3696126A05B3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnumeratedType", "EnumeratedType\EnumeratedType.csproj", "{99BD5D5A-6357-4E87-B579-435AF32EA064}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{5F6A43FC-6321-499C-98E5-3696126A05B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5F6A43FC-6321-499C-98E5-3696126A05B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5F6A43FC-6321-499C-98E5-3696126A05B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99BD5D5A-6357-4E87-B579-435AF32EA064}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99BD5D5A-6357-4E87-B579-435AF32EA064}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99BD5D5A-6357-4E87-B579-435AF32EA064}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99BD5D5A-6357-4E87-B579-435AF32EA064}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
